@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "i18n": "ng extract-i18n --out-file src/locale/messages.en-US.xlf",
+    "i18n": "ng extract-i18n --out-file src/locale/messages.en_US.xlf",
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
